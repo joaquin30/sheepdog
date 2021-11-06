@@ -1,6 +1,6 @@
 # Sheepdog
 
-Play it on: <https://joaquin30.itch.io/sheepdog>. Made it with Phaser 3.
+Play it on <https://joaquin30.itch.io/sheepdog>. Made it with Phaser 3.
 
 ## Screenshots
 
